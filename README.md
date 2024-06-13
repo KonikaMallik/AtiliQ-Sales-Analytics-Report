@@ -21,7 +21,7 @@ Power Query, Power Pivot, DAX, Data Modelling, Data Transformation
 - [x] Created various columns and mesaures using Power Query required to build meaningful insights.
 
 ## Soft Skills:
-- [x]	Refined understanding of Sales & Finance Reports
+- [x]	Refined understanding of Sales Reports
 - [x]	Designing user-centric reports with empathy in mind.
 - [x]	Optimization of report generation through meticulous fine-tuning.
 - [x]	Developing a systematic approach to devising a report building plan.
